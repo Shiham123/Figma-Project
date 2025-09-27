@@ -33,7 +33,6 @@ export default defineConfig([
       camelcase: ["error"],
       "require-await": ["error"],
       "no-var": ["error"],
-      "no-unused-vars": ["error"],
       "no-undef": ["error"],
       "no-console": ["error"],
     },
